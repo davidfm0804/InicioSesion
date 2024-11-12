@@ -17,8 +17,8 @@ body {
 /* Estilo del contenedor principal */
 .container {
     position: relative;
-    top: 30%;
-    left: 40%;
+    top: 20%;
+    left: 37%;
     align-items: center;
     width: 100%;
     max-width: 380px;
